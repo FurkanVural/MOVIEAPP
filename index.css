@@ -1,0 +1,22 @@
+body {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+}
+.title {
+    color: brown;
+}
+
+.new {
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.f30 {
+    font-size: 30px;
+}
+.active {
+    color: red;
+}
+.scale-1-1:hover{
+    transition: all 0.3s ease;
+    scale: 1.1;
+}
